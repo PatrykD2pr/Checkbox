@@ -29,7 +29,7 @@
         app:layout_constraintVertical_bias="0.087" />
 
     <ImageView
-        android:id="@+id/imgApple8"
+        android:id="@+id/imgAnanas"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -40,7 +40,7 @@
         app:layout_constraintVertical_bias="0.147" />
 
     <ImageView
-        android:id="@+id/imgApple9"
+        android:id="@+id/imgArbuz"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -51,7 +51,7 @@
         app:layout_constraintVertical_bias="0.212" />
 
     <ImageView
-        android:id="@+id/imgApple10"
+        android:id="@+id/imgCytryna"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -62,7 +62,7 @@
         app:layout_constraintVertical_bias="0.274" />
 
     <ImageView
-        android:id="@+id/imgApple11"
+        android:id="@+id/imgGruszka"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -73,7 +73,7 @@
         app:layout_constraintVertical_bias="0.337" />
 
     <ImageView
-        android:id="@+id/imgApple12"
+        android:id="@+id/imgKokos"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -84,7 +84,7 @@
         app:layout_constraintVertical_bias="0.399" />
 
     <ImageView
-        android:id="@+id/imgApple13"
+        android:id="@+id/imgMango"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -95,7 +95,7 @@
         app:layout_constraintVertical_bias="0.459" />
 
     <ImageView
-        android:id="@+id/imgApple14"
+        android:id="@+id/imgTruskawka"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -106,7 +106,7 @@
         app:layout_constraintVertical_bias="0.52" />
 
     <ImageView
-        android:id="@+id/imgApple15"
+        android:id="@+id/imgBanany"
         android:layout_width="43dp"
         android:layout_height="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
